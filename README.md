@@ -1,16 +1,10 @@
-**Growtopia Ad Blocker by cerebrum#0606**
-***Growtopia Ad blocker for disabling ads in weather background (billboards, airplanes) and in ad blocks.***
-
-Some files from ama6enen
-**https://github.com/selenmunu/GTAdblock**
-
-***How to use/install***
-Download release here
-Replace existing SecureEngineSDK64.dll in Growtopia directory with the downloaded one
-Done
-Features
-Disables airplanes and billboards in the default sunny weather background in all worlds
-Hide ads in actual ad blocks (todo)
-Notes
-SecureEngineSDK64 is an unused dll that does not do anything anymore, containing only empty functions. By naming our dll as this, gt will load it automatically at startup.
-This ad blocker is essentially a very tiny internal cheat. It is compatible with other internal cheats, because it does not hook anything.
+**Growtopia Ad-Blocker**
+Growtopia Ad blocker for disabling ads in weather background (billboards, airplanes) and in ad blocks.
+**What does it do?**
+Growtopia Ad-Blocker disabled the ads in the game!
+**How can i install?**
+1 - *Download it!*
+2 - *Launch it on a VM Or real pc.*
+3 - *Then you are done.*
+**Have any problems?**
+*Feel free to dm me on discord cerebrum#0606*
